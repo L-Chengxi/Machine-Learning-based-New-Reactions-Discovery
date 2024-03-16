@@ -4,9 +4,12 @@ Transition-metal-free carbon-carbon (C-C) couplings, involving secondary alcohol
 
 The Transformer model has recently ushered in transformative advancements in the field of natural language processing. Additionally, it has demonstrated remarkable utility in chemistry through the utilization of a textual representation known as the simplified molecular input line system (SMILES), which encodes molecular and chemical reactions. These studies clearly indicate that the Transformer model possesses the capability to acquire knowledgepertaining to organic chemistry and chemical reactions by analyzing SMILES.
 
-# Requirements
-As the library is based on the chemoinformatics toolkit [RDKit](http://www.rdkit.org) it is best installed using the [Anaconda](https://docs.conda.io/en/latest/miniconda.html) package manager. Once you have conda, you can simply run:
+# System
+All systems
 
+# Requirements
+As the library is based on the chemoinformatics toolkit [RDKit](http://www.rdkit.org) it is best installed using the [Anaconda](https://docs.conda.io/en/latest/miniconda.html) package manager. Once you have conda（conda 22.9.0）, you can simply run:
+# Installation guide
 pip install numpy
 pip install pandas
 pip install rdkit
@@ -14,12 +17,13 @@ pip install tensorflow==2.0.0
 pip install keras==2.3.1
 pip install matplotlib
 pip install sklearn
-
-The Transformer model has recently ushered in transformative advancements in the field of natural language processing. Additionally, it has demonstrated remarkable utility in chemistry through the utilization of a textual representation known as the simplified molecular input line system (SMILES), which encodes molecular and chemical reactions. These studies clearly indicate that the Transformer model possesses the capability to acquire knowledgepertaining to organic chemistry and chemical reactions by analyzing SMILES.
+# time
+with Half an hour
 
 # Files
 data/: Contains the data used for the experiments in the paper. 
 d_rxn_predictionCNN.ipynb:Contains the code for the CNN model 
 
 # run
+Click to run the interface
 
