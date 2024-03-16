@@ -5,14 +5,22 @@ Transition-metal-free carbon-carbon (C-C) couplings, involving secondary alcohol
 The Transformer model has recently ushered in transformative advancements in the field of natural language processing. Additionally, it has demonstrated remarkable utility in chemistry through the utilization of a textual representation known as the simplified molecular input line system (SMILES), which encodes molecular and chemical reactions. These studies clearly indicate that the Transformer model possesses the capability to acquire knowledgepertaining to organic chemistry and chemical reactions by analyzing SMILES.
 
 # System
-All systems
+    - Windows 10
+    - Ubuntu 20.04 LTS
+    - Mac
 
 # Requirements
-As the library is based on the chemoinformatics toolkit [RDKit](http://www.rdkit.org) it is best installed using the [Anaconda](https://docs.conda.io/en/latest/miniconda.html) package manager. Once you have conda（conda 22.9.0）, you can simply run:
-# Installation guide
+- **Software Dependencies:** 
+  - Python (version 3.8 or higher)
+  - Anaconda（conda 22.9.0 or higher）
+  -scikit-learn (version 0.24.2 or higher)
+  - numpy (version 1.20.3 or higher)
+  - pandas (version 1.3.3 or higher)
+  - matplotlib (version 3.4.3 or higher)
+
+- **Installation guide:**
 pip install numpy
 pip install pandas
-pip install rdkit
 pip install tensorflow==2.0.0
 pip install keras==2.3.1
 pip install matplotlib
