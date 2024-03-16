@@ -9,12 +9,12 @@ Our ML algorithms are trained on a dataset of 761 transformations involving boro
 - Offers a rapid screening methodology underpinned by robust ML predictions.
 
 # System Requirements
-- **Operating Systems:**
+## **Operating Systems:**
 - Windows (version 13.8 or higher)
 - Ubuntu (version 20.04 or higher)
 - MacOS (version 10.13 or higher)
   
-- **Required Non-standard Hardware:** 
+## **Required Non-standard Hardware:** 
  	 - None
 
 # Software Dependencies
@@ -39,7 +39,7 @@ pip install tensorflow==2.0.0 keras==2.3.1
 To run the ML model, navigate to the Anaconda interface and execute the provided Jupyter Notebook (CNN.ipynb). Follow the step-by-step instructions within the notebook to perform the analysis.
 
 
-- **Expected Runtime:**
+## **Expected Runtime:**
 - Approximately 30 minutes
   
 # Repository Structure
